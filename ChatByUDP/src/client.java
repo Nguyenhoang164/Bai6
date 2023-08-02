@@ -10,7 +10,7 @@ public class client {
 
         InetAddress serverIP = InetAddress.getByName("localhost");
 
-        String message = "Hello, server!";
+        String message = "Hello, server";
         sendData = message.getBytes();
 
         DatagramPacket sendPacket = new DatagramPacket(sendData, sendData.length, serverIP, 8888);
