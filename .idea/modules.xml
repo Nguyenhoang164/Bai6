@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bai6.iml" filepath="$PROJECT_DIR$/Bai6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatByUDP/ChatByUDP.iml" filepath="$PROJECT_DIR$/ChatByUDP/ChatByUDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File/File.iml" filepath="$PROJECT_DIR$/File/File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleCaculator/SimpleCaculator.iml" filepath="$PROJECT_DIR$/SimpleCaculator/SimpleCaculator.iml" />
+    </modules>
+  </component>
+</project>
